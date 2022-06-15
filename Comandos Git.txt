@@ -1,0 +1,7 @@
+git clone urlDorepositorio .  - o ponto é para não criar outra pasta com o mesmo nome do repositorio(J afica com os arquivos da pasta do repositorio
+
+git init
+git add .
+git commit -m "Comentario relevante"
+git pull origin main
+git push origin main
